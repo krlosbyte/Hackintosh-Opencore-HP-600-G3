@@ -2,6 +2,8 @@
 
 Usuario nuevo siguiendo la [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide") y después de probar diferentes ajustes he conseguido iniciar e instalar macOS Big Sur en HP ProDesk 600 G3 (SFF).
 
+[![](Screenshot)](https://i.imgur.com/oSg3QPx.png)
+
 ### Información
 
 - OpenCore 0.8.9 RELEASE
